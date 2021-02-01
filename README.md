@@ -1,6 +1,6 @@
 # portfolio
 
- usicrows
+ musicrows
 
 ## サイト概要
 
