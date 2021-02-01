@@ -1,6 +1,5 @@
-# portfolio
 
- musicrows
+ # musicrows
 
 ## サイト概要
 
@@ -27,18 +26,14 @@ JPOP、洋楽、アニメ、演歌、クラシックなどのジャンルや「�
 ・移り変わりの早い近年の音楽業界において、他人よりもいち早く新しい音楽を知りたい・聞きたいと考えている人に向けて
 
 ## 設計書
-<>
+機能一覧
 
-## チャレンジ要素一覧
+## 機能一覧
 https://docs.google.com/spreadsheets/d/1bVxC7ldB10IFk4zfEUb5jYWyB-pHAIPOx0W2C7T2HYo/edit#gid=0
 
 ## 開発環境
 - OS：Linux(CentOS)
 - 言語：HTML,CSS,JavaScript,Ruby,SQL
 - フレームワーク：Ruby on Rails
-- JSライブラリ：jQuery
+- JSライブラリ：Vue.js
 - IDE：Cloud9
-
-## 使用素材
-- 外部サービスの画像素材・音声素材を使用した場合は、必ずサービス名とURLを明記してください。
-- 使用しない場合は、使用素材の項目をREADMEから削除してください。
