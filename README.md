@@ -26,7 +26,9 @@ JPOP、洋楽、アニメ、演歌、クラシックなどのジャンルや「�
 ・移り変わりの早い近年の音楽業界において、他人よりもいち早く新しい音楽を知りたい・聞きたいと考えている人に向けて
 
 ## 設計書
-機能一覧
+ER図
+詳細設計書　https://docs.google.com/spreadsheets/d/1kbCovqBmVcFILPIDRSiNhuAIIp-9geHypQvODz3W8mQ/edit#gid=0
+テーブル定義書　https://docs.google.com/spreadsheets/d/1x5gCQTDN92lIq13M9aTCvdfLtn559yPjLu2vmerayr4/edit#gid=0
 
 ## 機能一覧
 https://docs.google.com/spreadsheets/d/1bVxC7ldB10IFk4zfEUb5jYWyB-pHAIPOx0W2C7T2HYo/edit#gid=0
